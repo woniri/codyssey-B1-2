@@ -106,7 +106,7 @@ MF_S01_v2.png
 
 ## 목적
 
-업무 과부화로인해 아무것도 하지 못하는 모습
+일은 많지만 무엇부터 해야 할지 알 수 없
 
 ---
 
@@ -121,3 +121,92 @@ Show an expanding task list on the monitor, unfinished tasks, missed deadlines, 
 The character should look mentally exhausted and overwhelmed.
 
 Maintain photorealistic style, premium commercial advertising photography, blue futuristic productivity dashboard, cinematic lighting, modern office environment, high detail, 16:9 aspect ratio.
+
+---
+
+## 생성 결과
+
+- 업무 마비 상태를 효과적으로 표현
+- 할 일 목록 증가와 연체 업무를 시각적으로 전달
+- 생산성 0% 표현 성공
+- Scene 1과 캐릭터 일관성 유지
+
+---
+
+## 생성 파일
+
+MF_S02_v1.png
+
+---
+
+## 최종 선택
+
+MF_S02_v1.png
+
+### 선택 이유
+
+정보 과부하 이후 발생하는 업무 정체 상태를 효과적으로 표현하였다.
+
+우선순위를 결정하지 못하는 사용자의 심리 상태를 자연스럽게 전달하며, Scene 3의 MindFlow 등장으로 이어지는 흐름을 형성한다.
+
+---
+
+# Scene 3
+
+## 목적
+
+MindFlow가 복잡한 업무와 정보를 자동으로 정리하여 사용자가 무엇에 집중해야 하는지 명확하게 보여주는 전환 장면.
+
+---
+
+## 생성 방식
+
+Character Reference 사용
+
+참조 이미지:
+MF_S02_v1.png
+
+---
+
+## Prompt V1
+
+Keep the same character, same face, same hairstyle, same white business shirt, and same office environment.
+
+The AI productivity platform "MindFlow" appears on the monitor.
+
+The chaotic task list and overdue items begin organizing themselves automatically into a clean, structured dashboard.
+
+Tasks are grouped by priority, deadlines become clear, and important work is highlighted.
+
+The character looks surprised and relieved as order emerges from chaos.
+
+Photorealistic, premium commercial advertising photography, blue futuristic productivity interface, cinematic lighting, clean modern office, high detail, 16:9 aspect ratio.
+
+---
+
+## 생성 결과
+
+* MindFlow의 핵심 기능을 효과적으로 표현
+* 복잡한 업무가 우선순위 기반으로 정리되는 모습을 시각화
+* 동일 캐릭터 유지 성공
+* 브랜드 UI와 서비스 가치 전달 성공
+* 혼란에서 질서로 전환되는 장면 표현 성공
+
+---
+
+## 생성 파일
+
+MF_S03_v1.png
+
+---
+
+## 최종 선택
+
+MF_S03_v1.png
+
+### 선택 이유
+
+혼란스럽게 쌓여 있던 업무와 일정이 우선순위 중심의 구조화된 대시보드로 정리되는 과정을 직관적으로 표현하였다.
+
+MindFlow의 핵심 가치인 업무 정리, 우선순위 자동화, 생산성 향상을 한 장면 안에서 효과적으로 전달할 수 있어 최종 이미지로 선정하였다.
+
