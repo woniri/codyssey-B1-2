@@ -112,4 +112,12 @@ MF_S01_v2.png
 
 ## Prompt V1
 
-A professional office worker staring blankly at a computer screen in a modern office, an overwhelming task list growing larger and larger beside him, unfinished tasks, missed deadlines, productivity stuck at zero, feeling lost and unable to decide where to start, cinematic commercial advertising, blue futuristic productivity dashboard, realistic office environment, dramatic lighting, photorealistic, high detail, premium corporate branding style, shallow depth of field, 16:9 aspect ratio
+Keep the same character, same face, same hairstyle, same white business shirt, and same office environment.
+
+Change the scene so that the character is staring blankly at his computer screen, unable to decide where to start.
+
+Show an expanding task list on the monitor, unfinished tasks, missed deadlines, and productivity stuck at zero.
+
+The character should look mentally exhausted and overwhelmed.
+
+Maintain photorealistic style, premium commercial advertising photography, blue futuristic productivity dashboard, cinematic lighting, modern office environment, high detail, 16:9 aspect ratio.
