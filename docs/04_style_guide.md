@@ -71,6 +71,14 @@ MindFlow는 복잡한 정보를 정리하여 생산성을 향상시키는 AI 서
 
 모든 이미지 및 영상 생성 프롬프트에 동일한 스타일 키워드를 적용한다.
 
+## Character Consistency Strategy
+
+Scene 1에서 생성한 주인공 이미지를 기준 캐릭터로 사용한다.
+
+이후 모든 씬 생성 시 동일 인물, 동일 헤어스타일, 동일 의상, 동일 연령대를 유지한다.
+
+가능한 경우 Character Reference 기능을 사용한다.
+
 ### 공통 프롬프트 베이스
 
 photorealistic,
