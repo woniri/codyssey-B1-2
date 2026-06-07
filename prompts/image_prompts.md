@@ -11,6 +11,17 @@ professional productivity software aesthetic,
 high detail,
 16:9 aspect ratio
 
+## Character Reference
+
+same character as Scene 1
+
+young East Asian male
+late 20s to early 30s
+short black hair
+white business shirt
+business casual
+clean professional appearance
+
 ---
 
 # Scene 1
@@ -98,17 +109,6 @@ MF_S01_v2.png
 업무 과부화로인해 아무것도 하지 못하는 모습
 
 ---
-
-## Character Reference
-
-same character as Scene 1
-
-young East Asian male
-late 20s to early 30s
-short black hair
-white business shirt
-business casual
-clean professional appearance
 
 ## Prompt V1
 
