@@ -99,6 +99,17 @@ MF_S01_v2.png
 
 ---
 
+## Character Reference
+
+same character as Scene 1
+
+young East Asian male
+late 20s to early 30s
+short black hair
+white business shirt
+business casual
+clean professional appearance
+
 ## Prompt V1
 
 A professional office worker staring blankly at a computer screen in a modern office, an overwhelming task list growing larger and larger beside him, unfinished tasks, missed deadlines, productivity stuck at zero, feeling lost and unable to decide where to start, cinematic commercial advertising, blue futuristic productivity dashboard, realistic office environment, dramatic lighting, photorealistic, high detail, premium corporate branding style, shallow depth of field, 16:9 aspect ratio
