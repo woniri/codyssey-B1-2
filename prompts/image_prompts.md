@@ -44,16 +44,20 @@ MF_S01_v1.png
 
 ## 개선 방향
 
-* 주인공 중심 구도 강화
-* 감정 표현 강화
-* 알림 수 감소
-* 시선 집중도 향상
+| 변경                                                           | 이유       |
+| ------------------------------------------------------------ | -------- |
+| multiple notifications → small number of large notifications | 가독성 향상   |
+| frustrated → stressed and exhausted                          | 감정 강화    |
+| hands holding his head 추가                                    | 상황 전달 강화 |
+| clean composition 추가                                         | 광고 느낌 강화 |
+| dramatic contrast lighting 추가                                | 몰입감 향상   |
+
 
 ---
 
 ## Prompt V2
 
-(생성 전)
+A young professional office worker sitting alone at a desk late in the evening, overwhelmed by a small number of large floating email notifications, urgent chat messages and meeting reminders, information overload creating visual chaos around him, stressed and exhausted expression, hands holding his head, cinematic commercial advertising, premium corporate branding style, blue holographic UI elements, dramatic contrast lighting, shallow depth of field, ultra realistic photography, clean composition focused on the character, modern office environment, professional productivity software aesthetic, high detail, 16:9 aspect ratio
 
 ---
 
