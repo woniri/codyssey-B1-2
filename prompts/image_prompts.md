@@ -88,3 +88,17 @@ MF_S01_v2.png
 - 광고 첫 장면으로 사용하기 적합
 - 정보 과부하 메시지가 명확함
 - MindFlow 등장 전 문제 상황을 효과적으로 전달함
+
+---
+
+# Scene 2
+
+## 목적
+
+업무 과부화로인해 아무것도 하지 못하는 모습
+
+---
+
+## Prompt V1
+
+A professional office worker staring blankly at a computer screen in a modern office, an overwhelming task list growing larger and larger beside him, unfinished tasks, missed deadlines, productivity stuck at zero, feeling lost and unable to decide where to start, cinematic commercial advertising, blue futuristic productivity dashboard, realistic office environment, dramatic lighting, photorealistic, high detail, premium corporate branding style, shallow depth of field, 16:9 aspect ratio
