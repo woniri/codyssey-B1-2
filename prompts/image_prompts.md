@@ -240,3 +240,44 @@ The character looks calm, motivated, and fully engaged in his work.
 
 Photorealistic, premium commercial advertising photography, blue futuristic productivity dashboard, cinematic lighting, modern office environment, high detail, clean composition, 16:9 aspect ratio.
 
+---
+
+## Prompt V2
+
+Keep the same character, same face, same hairstyle, same white business shirt, and same office environment.
+
+The character has successfully completed his important work and is preparing to leave the office.
+
+The desk is clean and organized, completed tasks are checked off, and the atmosphere feels calm and productive.
+
+The character smiles with satisfaction and confidence while looking at his finished work.
+
+Photorealistic, premium commercial advertising photography, cinematic lighting, modern office environment, blue accent lighting, clean desk, professional atmosphere, high detail, 16:9 aspect ratio.
+
+---
+
+## 생성 결과
+
+- 생산성 향상 결과를 효과적으로 표현
+- 완료된 업무와 향상된 생산성 지표를 시각화
+- 사용자 만족감과 성취감을 전달
+- Scene 3과 차별화된 감정 변화를 표현
+- 동일 캐릭터 일관성 유지 성공
+
+---
+
+## 생성 파일
+
+MF_S04_v2.png
+
+---
+
+## 최종 선택
+
+MF_S04_v2.png
+
+### 선택 이유
+
+MindFlow를 통해 정리된 업무가 실제 성과로 이어지는 모습을 효과적으로 표현하였다.
+
+완료된 업무, 향상된 생산성 지표, 사용자의 만족스러운 표정을 통해 서비스의 가치를 직관적으로 전달할 수 있어 최종 이미지로 선정하였다.
