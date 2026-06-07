@@ -281,3 +281,41 @@ MF_S04_v2.png
 MindFlow를 통해 정리된 업무가 실제 성과로 이어지는 모습을 효과적으로 표현하였다.
 
 완료된 업무, 향상된 생산성 지표, 사용자의 만족스러운 표정을 통해 서비스의 가치를 직관적으로 전달할 수 있어 최종 이미지로 선정하였다.
+
+---
+
+# Scene 5
+
+## 목적
+
+브랜드 인지도 강화 및 광고 마무리
+
+---
+
+## Prompt V1
+
+Premium technology brand end card for "MindFlow".
+
+Clean dark blue gradient background with subtle futuristic UI elements and elegant lighting.
+
+The MindFlow logo is displayed prominently in the center.
+
+Below the logo, the slogan appears:
+
+"흩어진 생각이 흐름이 되는 순간"
+
+A clean call-to-action appears at the bottom:
+
+"Start Your Flow Today"
+
+Premium commercial advertising design, minimalistic composition, modern SaaS branding, cinematic lighting, high detail, professional technology brand identity, 16:9 aspect ratio.
+
+---
+
+## 기대 결과
+
+* 브랜드명 강조
+* 슬로건 전달
+* CTA 제공
+* 광고 마무리 역할 수행
+
