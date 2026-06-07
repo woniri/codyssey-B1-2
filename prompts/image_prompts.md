@@ -210,3 +210,33 @@ MF_S03_v1.png
 
 MindFlow의 핵심 가치인 업무 정리, 우선순위 자동화, 생산성 향상을 한 장면 안에서 효과적으로 전달할 수 있어 최종 이미지로 선정하였다.
 
+
+# Scene 4
+
+## 목적
+
+정리된 생각이 실제 성과와 생산성 향상으로 이어지는 모습을 표현한다.
+
+---
+
+## 생성 방식
+
+Character Reference 사용
+
+참조 이미지:
+MF_S03_v1.png
+
+---
+
+## Prompt V1
+
+Keep the same character, same face, same hairstyle, same white business shirt, and same office environment.
+
+The character is now focused and productive, confidently working at his desk.
+
+Completed tasks are highlighted on the monitor, progress indicators are increasing, and productivity metrics show strong improvement.
+
+The character looks calm, motivated, and fully engaged in his work.
+
+Photorealistic, premium commercial advertising photography, blue futuristic productivity dashboard, cinematic lighting, modern office environment, high detail, clean composition, 16:9 aspect ratio.
+
