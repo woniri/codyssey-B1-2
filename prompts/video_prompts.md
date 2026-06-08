@@ -7,7 +7,7 @@
 핵심 메시지:
 흩어진 생각이 흐름이 되는 순간
 
-스타일:
+스타일 가이드:
 
 * Photorealistic
 * Premium Commercial Advertising
@@ -25,11 +25,15 @@
 
 MF_S01_v2.png
 
+## 생성 방식
+
+Image to Video (Veo)
+
 ## 영상 목표
 
-정보 과부하 상황을 강조
+정보 과부하와 업무 압박감을 표현한다.
 
-## Video Prompt
+## 최종 Video Prompt
 
 Slow cinematic camera push-in toward the stressed office worker.
 
@@ -43,6 +47,10 @@ Blue holographic UI elements glow softly in the office.
 
 Photorealistic corporate commercial, premium advertising style, cinematic lighting, shallow depth of field, smooth camera movement, modern office environment, realistic motion, 16:9.
 
+## 최종 사용 여부
+
+사용
+
 ---
 
 # Scene 2
@@ -51,23 +59,23 @@ Photorealistic corporate commercial, premium advertising style, cinematic lighti
 
 MF_S02_v1.png
 
+## 생성 방식
+
+정지 이미지 사용
+
+CapCut Zoom 효과 적용
+
 ## 영상 목표
 
 업무 마비 상태 표현
 
-## Video Prompt
+## 사용 이유
 
-Slow camera movement toward the character.
+텍스트와 업무 목록이 많은 장면 특성상 영상 생성 시 UI 왜곡 가능성이 높아 정지 이미지 기반 연출을 선택하였다.
 
-The task list gradually expands.
+## 최종 사용 여부
 
-Productivity indicators decrease.
-
-The character stares at the screen, unable to make a decision.
-
-Subtle motion in the UI elements creates a feeling of stagnation and mental overload.
-
-Premium commercial advertising, photorealistic, cinematic lighting.
+사용
 
 ---
 
@@ -77,23 +85,25 @@ Premium commercial advertising, photorealistic, cinematic lighting.
 
 MF_S03_v1.png
 
+## 생성 방식
+
+정지 이미지 사용
+
+CapCut Zoom + Fade 효과 적용
+
 ## 영상 목표
 
-MindFlow 등장 및 정리 시작
+MindFlow의 핵심 기능 소개
 
-## Video Prompt
+## 사용 이유
 
-The chaotic interface smoothly reorganizes itself.
+UI 재구성 및 텍스트 변형 요소가 많아 영상 생성 시 왜곡 가능성이 높다고 판단하였다.
 
-Tasks automatically sort into priorities.
+정지 이미지 기반 연출로 핵심 메시지를 명확하게 전달하였다.
 
-Deadlines become clear.
+## 최종 사용 여부
 
-The MindFlow interface activates with elegant transitions.
-
-The character's expression shifts from confusion to relief.
-
-Premium commercial advertising, cinematic UI animation, photorealistic.
+사용
 
 ---
 
@@ -103,21 +113,31 @@ Premium commercial advertising, cinematic UI animation, photorealistic.
 
 MF_S04_v2.png
 
+## 생성 방식
+
+Image to Video (Veo)
+
 ## 영상 목표
 
-생산성 향상 및 성과 표현
+생산성 향상과 성과 달성 표현
 
-## Video Prompt
+## 최종 Video Prompt
 
-Completed tasks animate with smooth check marks.
+Slow cinematic camera movement.
 
-Productivity metrics increase.
+The character works confidently and calmly at his desk.
 
-The character smiles confidently while continuing to work.
+He smiles with satisfaction as completed tasks and productivity indicators subtly update on the monitor.
 
-Subtle camera movement and elegant UI animations reinforce a sense of accomplishment.
+The office atmosphere feels organized, productive, and stress-free.
 
-Premium commercial advertising, photorealistic, cinematic lighting.
+Soft blue lighting and subtle UI animations reinforce a sense of accomplishment.
+
+Photorealistic premium commercial advertising, cinematic lighting, modern office environment, natural motion, realistic facial expression, high detail, 16:9.
+
+## 최종 사용 여부
+
+사용
 
 ---
 
@@ -127,18 +147,52 @@ Premium commercial advertising, photorealistic, cinematic lighting.
 
 MF_S05_v1.png
 
+## 생성 방식
+
+Image to Video (Veo)
+
 ## 영상 목표
 
-브랜드 엔딩
+브랜드 인지도 강화 및 광고 마무리
 
-## Video Prompt
+## 최종 Video Prompt
 
 Slow cinematic zoom toward the MindFlow logo.
 
-Soft glowing blue particles move across the screen.
+Soft blue light particles gently move across the screen.
 
-The slogan remains clearly visible.
+Subtle futuristic UI elements softly animate in the background.
 
-The call-to-action button emits a subtle glow.
+The slogan remains clear and readable.
 
-Premium technology brand commercial, cinematic lighting, elegant motion graphics.
+The call-to-action glows slightly as the camera slowly moves forward.
+
+Premium technology brand commercial, elegant motion graphics, cinematic lighting, clean modern design, photorealistic, high-end SaaS branding, 16:9.
+
+## 최종 사용 여부
+
+사용
+
+---
+
+# 최종 영상 구성
+
+Scene 1 (영상)
+
+↓
+
+Scene 2 (정지 이미지 + Zoom)
+
+↓
+
+Scene 3 (정지 이미지 + Fade)
+
+↓
+
+Scene 4 (영상)
+
+↓
+
+Scene 5 (영상)
+
+총 길이: 약 35초
