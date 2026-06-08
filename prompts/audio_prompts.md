@@ -1,17 +1,3 @@
-# MindFlow Audio Prompts
-
-## 프로젝트 정보
-
-브랜드: MindFlow
-
-핵심 메시지:
-흩어진 생각이 흐름이 되는 순간
-
-광고 길이:
-약 45초
-
----
-
 # Background Music
 
 ## 목적
@@ -32,11 +18,9 @@ Professional, cinematic, emotional progression from chaos to clarity.
 
 No vocals.
 
-Duration: 45 seconds.
+Duration: 35 seconds.
 
----
-
-## 기대 효과
+## 사용 목적
 
 Scene 1~2
 
@@ -47,29 +31,11 @@ Scene 1~2
 Scene 3
 
 * 전환
-* 희망
 * 정리 시작
+* 희망
 
 Scene 4~5
 
 * 성취감
-* 자신감
-* 미래지향적 분위기
-
----
-
-# Voice Over (선택)
-
-## 내레이션 초안
-
-생각보다 정보가 먼저 쌓인다.
-
-할 일은 많아지지만,
-무엇부터 시작해야 할지는 보이지 않는다.
-
-MindFlow는 복잡한 정보를 정리하고,
-중요한 일에 집중할 수 있도록 돕는다.
-
-흩어진 생각이 흐름이 되는 순간.
-
-MindFlow.
+* 생산성 향상
+* 브랜드 신뢰감
