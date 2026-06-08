@@ -31,15 +31,17 @@ MF_S01_v2.png
 
 ## Video Prompt
 
-Slow cinematic push-in toward the stressed office worker.
+Slow cinematic camera push-in toward the stressed office worker.
 
-Floating email notifications, chat messages, meeting reminders, and task alerts drift slowly around the character.
+Large floating email notifications, chat messages, calendar reminders, and task alerts gradually appear around him.
 
-The blue holographic UI glows softly.
+The volume of digital information increases over time, creating a sense of pressure and information overload.
 
-The character remains still while the digital information continues to accumulate, creating a sense of pressure and information overload.
+The character remains seated while becoming visibly more stressed and overwhelmed.
 
-Premium commercial advertising, photorealistic, cinematic lighting, smooth camera movement.
+Blue holographic UI elements glow softly in the office.
+
+Photorealistic corporate commercial, premium advertising style, cinematic lighting, shallow depth of field, smooth camera movement, modern office environment, realistic motion, 16:9.
 
 ---
 
